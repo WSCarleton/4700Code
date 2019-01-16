@@ -41,9 +41,10 @@ ScaleF = 0;
 PlotPosOnly = 0;
 
 % Simulation initiallization
-InitThree
+% InitThree
 % InitBlock
 % InitCirc
+ InitEliptical
 % InitBlock0
 % InitBlock0FD
 % InitVStream
